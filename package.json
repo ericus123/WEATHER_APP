@@ -1,0 +1,26 @@
+{
+  "name": "weather_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericus123/WEATHER_APP.git"
+  },
+  "author": "AMANI Eric",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ericus123/WEATHER_APP/issues"
+  },
+  "homepage": "https://github.com/ericus123/WEATHER_APP#readme",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.6"
+  }
+}
