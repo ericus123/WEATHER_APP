@@ -36,7 +36,7 @@ const getweatherController = async (req,res) => {
   })
   .catch(function (error) {
     // handle error
-    res.status(400).json({ error: 'Error, please try again'})
+    res.status(400).json({ error: 'Error,please try again'})
   })
 } 
 
