@@ -30,7 +30,7 @@ const getweatherController = async (req,res) => {
   city:weather.name,
   icon:icon,
   description:description,
-  temp:celsius + " celsius"
+  temp:celsius 
 }
  res.status(200).json({message:`It's ${celsius} degrees celisius in ${weather.name}!`,details:details})
   })
