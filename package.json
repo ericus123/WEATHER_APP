@@ -25,7 +25,10 @@
     "express": "^4.17.1",
     "joi": "^17.3.0",
     "nodemon": "^2.0.6",
-    "rimraf": "^3.0.2"
+    "rimraf": "^3.0.2",
+    "@babel/core": "^7.12.3",
+    "@babel/node": "^7.12.1",
+    "@babel/preset-env": "^7.12.1"
   },
   "devDependencies": {
     "@babel/core": "^7.12.3",
