@@ -5,12 +5,12 @@ It displays weather deatails based on the provided city or country.
  - Web URL [here](https://amaniweatherapp.netlify.app/)
 
 ## Technologies used
- - node js 
- - express
- - openweather api
- - babel 
- - heroku
- - ### npm packages 
+ - [node js](https://nodejs.org/en/)
+ - [express](https://www.express.com/)
+ - [openweather api](https://openweathermap.org/)
+ - [babel](https://babeljs.io/docs/en/babel-node/) 
+ - [heroku](https://www.heroku.com/)
+ - ### [npm packages](https://www.npmjs.com/) 
    - nodemon
    - @babel/cli ^7.12.1
    - axios ^0.21.0
